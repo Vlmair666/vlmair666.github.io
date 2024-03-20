@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         // Replace this URL with the website you want to capture data from
-        String url = "vlmair666.github.io";
+        String url = vlmair666.github.io;
 
         // Capture data from the website
         String data = captureDataFromWebsite(url);
